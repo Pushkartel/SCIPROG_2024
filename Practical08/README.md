@@ -1,26 +1,39 @@
-# Practical 8
+# Practical 08
 
-This folder contains the innformation about the Practical 8
+This folder contains the innformation about the Practical 08.
 ## Overview
 
 This program implements both iterative and recursive versions of Euclid's algorithm to calculate the greatest common divisor (GCD) of two positive integers.
 
-## Compilation and Execution
+## Compile:
 
-### Compilation Steps
+### 1.GCD with user values:
 
-1. Compile the program using `gcc`:
-   gcc gcd.c -o gcd.C
+gcc -o gcd gcd.c
 
-### Executions
+## Excecute :
 
-1. Execution of the program :
-  - ./gcdC
+./gcd
 
-### Results 
+## Output:
 
-1. Output of the program :
+Please enter two postive intergers:<br>
+3<br>
+2<br>
+Iterative_gcd(3. 2)=1<br>
+Recursive_gcd(3. 2)=1
 
-Please enter two positive integers :
-   - IterativeGCD(10, 6) = 2
-   - RecursiveGCD(10, 6) = 2
+## Compile:
+
+### 2.GCD with two random integers:
+
+gcc -o gcd_rand gcd_random.c
+
+## Exceute:
+
+gcc -o gcd_rand gcd_random.c
+
+## Output:
+
+Iterative_gcd(12. 10)=2<br>
+Recursive_gcd(12. 10)=2
