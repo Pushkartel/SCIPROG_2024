@@ -2,7 +2,7 @@
 * This folder contains practical 04.
 * The program calculates the approximate area under the curve using the trapezoidal rule of the tangent function between 0 and 60 degrees.
 
-  ## To compile: 
+## To compile: 
 * gcc -o trap02 .trap02.c -lm
 
 # To execute:
