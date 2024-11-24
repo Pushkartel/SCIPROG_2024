@@ -1,0 +1,73 @@
+commit a4fc364aff521f20c8c13ef5058f13386c082d07
+Author: Pushkar Telavane <pushkartel9@gmail.com>
+Date:   Sun Nov 24 11:48:06 2024 +0000
+
+    ADD README.md to Practical04
+
+commit 2dd377be6ab5384211a21aaf0306268b09723fdf
+Author: Pushkar Telavane <pushkartel9@gmail.com>
+Date:   Thu Nov 21 00:52:35 2024 +0000
+
+    Add Practical09 codes and txt files.
+
+commit caff08b69f56d78980dd319d5a15b35e1a4cbc3a
+Merge: 09de676 21cbecb
+Author: Pushkar Telavane <pushkartel9@gmail.com>
+Date:   Thu Nov 21 00:40:06 2024 +0000
+
+    Add Practical02 codesMerge branch 'Practical02'
+
+commit 09de6766775aae49c23b46a239d76bd95a270262
+Author: Pushkar Telavane <pushkartel9@gmail.com>
+Date:   Mon Nov 18 22:09:50 2024 +0000
+
+    Add Practical08 codes
+
+commit a6cf82ea1cddc2664918751d0eb7e1492264cfbe
+Author: Pushkar Telavane <pushkartel9@gmail.com>
+Date:   Wed Nov 13 00:20:54 2024 +0000
+
+    Add Practical07 codes
+
+commit ddcf1bad0608dda18525536d37f2f763ec9df526
+Author: Pushkar Telavane <pushkartel9@gmail.com>
+Date:   Wed Nov 13 00:12:37 2024 +0000
+
+    Add Practical06 codes and text file
+
+commit 0f91d12d2cec0980740dd0f23edd5676a2039c3c
+Author: Pushkar Telavane <pushkartel9@gmail.com>
+Date:   Wed Nov 13 00:00:02 2024 +0000
+
+    Add Practical05 codes
+
+commit 856a7769a7b223d850fcc4693691b993fadcd89c
+Merge: dacb890 3932786
+Author: Pushkar Telavane <pushkartel9@gmail.com>
+Date:   Tue Nov 12 23:43:07 2024 +0000
+
+    Merge branch 'Practical04'
+
+commit 39327868f2b6163b4d6ea50e80f44f8353b53919
+Author: Pushkar Telavane <pushkartel9@gmail.com>
+Date:   Tue Nov 12 23:41:33 2024 +0000
+
+    Add Practical04 codes
+
+commit dacb890ef1dd8a48800aeed31d616d1a1f3c5327
+Author: Pushkar Telavane <pushkartel9@gmail.com>
+Date:   Tue Nov 12 23:36:38 2024 +0000
+
+    Add Practical03 codes
+
+commit 21cbecb5bc1b750d5088b9dee7f2da35250bad82
+Author: Pushkartel <pushkartel9@gmail.com>
+Date:   Tue Nov 12 23:12:41 2024 +0000
+
+    Add Practical02 code files.
+
+commit c8ae627e1208654eb2617f090c6e014ddd3d189f
+Author: Pushkar Telavane <pushkartel9@gmail.com>
+Date:   Tue Nov 12 22:57:08 2024 +0000
+
+    Add Introduction to Git Assignment
