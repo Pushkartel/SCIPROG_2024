@@ -20,7 +20,7 @@ $$
 
 ## Output1: 
 
-Enter file name: magic.txt<br>
+Enter file name: magic_sq.txt<br>
 No. lines, 3<br>
 M = 15<br>
 This is magic!<br>
