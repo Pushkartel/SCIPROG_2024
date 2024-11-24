@@ -1,6 +1,6 @@
-# Practical )6
+# Practical 06
 
-This folder contains the information about the Practical )6
+This folder contains the information about the Practical 06. Matrix Multiplication of two different sizes using loops.
 
 ## Compile
 
