@@ -11,7 +11,7 @@ This folder contains the information about the Practical 07.
 
 *./fratC
 
-##Output: 
+## Output: 
 
 Enter the order of the series: 25<br>
 5! is 120<br>
