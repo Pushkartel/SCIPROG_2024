@@ -1,6 +1,14 @@
-# Practical 9
+# Practical 09
 
-This folder contains the information about the Practical 9
+This folder contains the information about the Practical 09.<br>
+the magic square means that the sum of each row, each column or the sum of both diagonals is equal to a magic constant M.
+
+* The magic constant \( M \) is given as:
+
+$$
+M = \frac{n \times (n^2 + 1)}{2}
+$$
+
 
 ## Compile
 
@@ -10,12 +18,12 @@ This folder contains the information about the Practical 9
 
 * ./main_stubC
 
-Output2: 
+## Output1: 
 
-Enter file name: magic.txt
-No. lines, 3
-M = 15
-This is magic!
+Enter file name: magic.txt<br>
+No. lines, 3<br>
+M = 15<br>
+This is magic!<br>
 
 ## Execute2
 
@@ -23,8 +31,6 @@ This is magic!
 
 Output2: 
 
-Enter file name: notmagic.txt
-No. lines, 3
-M = 15
-Row 1 does not sum to 15 (row sum = 6).
-This is not magic
+Enter file name: notmagic.txt<br>
+No. lines, 3<br>
+This is not magic<br>
