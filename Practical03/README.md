@@ -1,6 +1,6 @@
-# Practical 3
+# Practical 03
 
-This folder contains practical 3 code.
+This folder contains practical 03 code.
 
 ## Compile:
 
@@ -10,19 +10,21 @@ This folder contains practical 3 code.
 
 pi/3 Radians = 1.047198
 
+Output:
+
 Initial ae(sum at x(0) and x(12)) = 1.732051
-New area of x(1): 1.907028
-New area of x(2): 2.259682
-New area of x(3): 2.795581
-New area of x(4): 3.523521
-New area of x(5): 4.456137
-New area of x(6): 5.610837
-New area of x(7): 7.011252
-New area of x(8): 8.689451
-New area of x(9): 10.689451
-New area of x(10): 13.072958
-New area of x(11): 15.929254
+I am even and the value of sum = 1.907028
+I am even and the value of sum = 2.259682
+I am even and the value of sum = 2.795581
+I am even and the value of sum = 3.523521
+I am even and the value of sum = 4.456137
+I am even and the value of sum = 5.610837
+I am even and the value of sum = 7.011252
+I am even and the value of sum = 8.689451
+I am even and the value of sum = 10.689451
+I am even and the value of sum = 13.072958
+I am even and the value of sum = 15.929254
 The value of sum after the loop is: 15.929254
 
-Trapezoidal result is: 0.695045
-Real result is:0.693147
+The final value : 0.695045
+The actual value : 0.693147
