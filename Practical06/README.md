@@ -1,6 +1,6 @@
-# Practical 6
+# Practical )6
 
-This folder contains the information about the Practical 6
+This folder contains the information about the Practical )6
 
 ## Compile
 
@@ -13,24 +13,24 @@ This folder contains the information about the Practical 6
 
 Output: 
 
-This is Matrix A
+This is Matrix A :
 
-  0  1  2
-  1  2  3
-  2  3  4
-  3  4  5
-  4  5  6
+  0  1  2<br>
+  1  2  3<br>
+  2  3  4<br>
+  3  4  5<br>
+  4  5  6<br>
 
- This is Matrix B
+ This is Matrix B :<br>
 
-  0 -1 -2 -3
-  1  0 -1 -2
-  2  1  0 -1
+  0 -1 -2 -3<br>
+  1  0 -1 -2<br>
+  2  1  0 -1<br>
 
- This is Matrix C
+ This is Matrix C :
 
-  5  2 -1  -4
-  8  2 -4  -10
- 11  2 -7  -16
- 14  2 -10 -22
- 17  2 -13 -28
+  5  2 -1  -4<br>
+  8  2 -4  -10<br>
+ 11  2 -7  -16<br>
+ 14  2 -10 -22<br>
+ 17  2 -13 -28<br>
