@@ -6,7 +6,7 @@ void fib(int *a, int *b);
 
 int main(void){
     int n;
-    printf("Please enter a positive intergern\n");
+    printf("Enter the value of n\n");
     scanf("%d",&n);
     if(n<1){
         printf("n must be bigger than 1\n");
@@ -15,7 +15,7 @@ int main(void){
 
     int f0 = 0;
     int f1 = 1;
-    printf("This fib. series is: \n");
+    printf("Fibonacci series is : \n");
     printf("%d %d ", f0, f1 );
 
     int i;
