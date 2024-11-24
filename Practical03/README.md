@@ -12,7 +12,7 @@ pi/3 Radians = 1.047198
 
 Output:
 
-Initial ae(sum at x(0) and x(12)) = 1.732051 <br>
+The value of the sum before the loop = 1.732051 <br>
 I am even and the value of sum = 1.907028<br>
 I am even and the value of sum = 2.259682<br>
 I am even and the value of sum = 2.259682<br>
