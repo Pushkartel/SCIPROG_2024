@@ -26,7 +26,7 @@ int main(void){
         tan1[i] = arctanh1(x, delta);
         tan2[i] = arctanh2(x);
 
-        printf("The diff. at x=%lf is %.10lf \n", x, fabs(tan1[i] - tan2[i]/tan2[i]));
+        printf("The Difference at x =%lf is %.10lf \n", x, fabs(tan1[i] - tan2[i]/tan2[i]));
         i++;
         x+=0.01;
     }
