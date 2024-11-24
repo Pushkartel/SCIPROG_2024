@@ -2,20 +2,8 @@
 
 This folder contains the information about the Practical 07.
 
-## Compile01:
 
-*gcc pointers.c -o pointersC -lm
- 
-
-## Execute
-
-*./pointersC
-
-Output: 
-
-1 1 1 1 1
-
-## Compile2:
+## Compile:
 
 *gcc frat.c -o fratC -lm
 
