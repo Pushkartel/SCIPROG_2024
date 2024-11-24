@@ -1,6 +1,6 @@
-# Practical 8
+# Practical 08
 
-This folder contains the innformation about the Practical 8
+This folder contains the innformation about the Practical 08.
 ## Overview
 
 This program implements both iterative and recursive versions of Euclid's algorithm to calculate the greatest common divisor (GCD) of two positive integers.
