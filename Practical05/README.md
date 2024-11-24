@@ -20,7 +20,7 @@ Fibonacci series is: <br>
 
 *./Arc
 
-Output: 
+## Output : 
 
 Please enter a Positive real number delta:
 0.1 <br>
