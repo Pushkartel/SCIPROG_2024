@@ -14,13 +14,13 @@ int main()
 
     // Sum tan(a)+tan(b) where a and b are in radians
     float area=tan(a)+tan(b_rad);
-    printf("\nInitial ae(sum at x(0) and x(12)) = %f\n",area);
+    printf("\nThe value sum before the loop = %f\n",area);
 
     // Calculate the area at points x1,x2,.....,x11 and add them up
     for (i = 5; i < 60; i = i + 5)
     {
         area=area+2 * tan(i * M_PI / 180.0);
-        printf("New area of x(%d): %f\n",i/5, area);
+        printf("I am even and the value of sum : %f\n",i/5, area);
     }
 
     printf("The value of sum after the loop is: %f\n", area);
@@ -29,10 +29,10 @@ int main()
     area=mult_rad*area;
 
     // Approximated result
-    printf("\nTrapezoidal result is: %f\n",area);
+    printf("\nThe final value : %f\n",area);
     // Actual result
     // Integral of tan is ln(2)
-    printf("Real result is:%f\n",log(2.0));
+    printf("The actual value:%f\n",log(2.0));
 
     return 0;
 }
